@@ -1,3 +1,5 @@
+# This project is DEPRECATED and not any longer supported
+
 [![Build Status](https://travis-ci.org/graphite-project/graphite-web.png?branch=master)](https://travis-ci.org/graphite-project/graphite-web)
 
 ## Overview
